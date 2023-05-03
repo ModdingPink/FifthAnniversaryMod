@@ -1,0 +1,9 @@
+﻿<bg id='root' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'>
+	<settings-container>
+		<clickable-text align='Left' text='Download Assets from the Fifth Anniversary!' highlight-color='FFF'  italics='true'></clickable-text>
+		<button text='Download Saber' on-click='extract'></button>
+		<button text='Download Levels' on-click='download'></button>
+
+	</settings-container>
+	
+</bg>
